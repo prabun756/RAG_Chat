@@ -1,36 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>RAG Chat App - GitHub Readme</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #ecf0f1;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #2c3e50;
-      color: #ecf0f1;
-      padding: 15px;
-      overflow-x: auto;
-      border-radius: 6px;
-    }
-    a {
-      color: #3498db;
-    }
-  </style>
-</head>
 <body>
   <h1>📚 RAG Chat App with LLaMA3 and Streamlit</h1>
 
