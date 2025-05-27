@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,4 +95,3 @@ Tensions had been building in Europe for years due to rivalries among nations an
   <p>If you'd like to deploy this publicly (e.g., on Streamlit Cloud or Hugging Face Spaces), let me know!</p>
 </body>
 </html>
-```
